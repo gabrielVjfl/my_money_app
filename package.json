@@ -1,0 +1,22 @@
+{
+  "name": "my_money_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "cors": "^2.8.5",
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1",
+    "express-query-int": "^3.0.0",
+    "mongoose": "^5.9.15",
+    "node-restful": "^0.2.6",
+    "nodemon": "^2.0.4"
+  }
+}
